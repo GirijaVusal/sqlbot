@@ -1,0 +1,41 @@
+student_id,name,date_of_birth,gender,phone_number,result_of_semester_1,result_of_semester_2,result_of_semester_3,result_of_semester_4,result_of_semester_5,result_of_semester_6,attendance_percentage_semester_1,attendance_percentage_semester_2,attendance_percentage_semester_3,attendance_percentage_semester_4,attendance_percentage_semester_5,attendance_percentage_semester_6,age,college_name,college_details
+1001,Alice Smith,2002-07-15,Female,304-555-1212,3.8,3.9,4.0,3.7,3.9,4.0,92,95,90,88,93,96,22,West Virginia University, Established 1867
+1002,Bob Johnson,2001-12-01,Male,681-555-2323,3.5,3.6,3.4,3.8,3.7,3.9,85,88,82,91,89,92,23,Marshall University, Established 1837
+1003,Charlie Brown,2002-03-10,Male,304-555-3434,2.9,3.0,3.2,3.1,3.3,3.5,78,80,75,79,82,85,22,West Virginia State University, Established 1891
+1004,Diana Davis,2003-09-22,Female,681-555-4545,4.0,4.0,3.9,4.0,4.0,4.0,95,98,96,97,99,100,21,Concord University, Established 1872
+1005,Ethan Wilson,2001-05-05,Male,304-555-5656,3.2,3.3,3.5,3.3,3.4,3.6,82,85,80,84,86,88,23,Shepherd University, Established 1871
+1006,Fiona Garcia,2002-11-18,Female,681-555-6767,3.6,3.7,3.8,3.9,3.8,3.7,88,90,86,92,91,90,22,Fairmont State University, Established 1865
+1007,George Rodriguez,2003-01-25,Male,304-555-7878,2.8,2.9,3.0,2.7,2.9,3.1,75,77,72,76,78,80,21,Glenville State University, Established 1872
+1008,Hannah Williams,2001-08-08,Female,681-555-8989,3.9,4.0,4.0,4.0,4.0,3.9,93,96,94,95,97,95,23,West Liberty University, Established 1837
+1009,Isaac Martinez,2002-04-12,Male,304-555-9090,3.3,3.4,3.2,3.5,3.6,3.4,83,86,81,87,88,84,22,Bluefield State University, Established 1895
+1010,Julia Anderson,2003-12-05,Female,681-555-0101,3.7,3.8,3.9,3.6,3.7,3.8,90,92,88,91,93,91,21,University of Charleston, Established 1888
+1011,Kevin Thomas,2001-09-19,Male,304-555-1234,3.0,3.1,3.3,3.2,3.4,3.3,79,81,76,80,83,82,23,Wheeling University, Established 1954
+1012,Linda Jackson,2002-06-22,Female,681-555-2345,4.0,3.9,4.0,4.0,3.9,4.0,96,94,97,98,95,99,22,Alderson Broaddus University, Established 1871
+1013,Michael White,2003-02-28,Male,304-555-3456,3.4,3.5,3.6,3.4,3.5,3.7,84,87,83,85,87,89,21,Bethany College, Established 1840
+1014,Nancy Harris,2001-11-03,Female,681-555-4567,2.7,2.8,2.9,3.0,3.1,3.2,74,76,70,78,79,81,23,Davis & Elkins College, Established 1904
+1015,Oscar Martin,2002-08-11,Male,304-555-5678,3.8,3.9,3.7,3.8,3.9,3.8,91,93,89,92,94,93,22,Ohio Valley University, Established 1958
+1016,Patricia Thompson,2003-04-17,Female,681-555-6789,3.1,3.2,3.4,3.3,3.5,3.4,80,82,78,83,85,83,21,Salem University, Established 1888
+1017,Quentin Garcia,2001-01-01,Male,304-555-7890,3.5,3.6,3.7,3.6,3.7,3.8,86,89,84,88,90,91,23,West Virginia University, Established 1867
+1018,Rachel Perez,2002-09-05,Female,681-555-8901,2.9,3.0,3.1,2.8,3.0,3.2,77,79,74,77,80,82,22,Marshall University, Established 1837
+1019,Samuel Wilson,2003-05-12,Male,304-555-9012,4.0,4.0,4.0,4.0,4.0,4.0,97,99,98,99,100,99,21,West Virginia State University, Established 1891
+1020,Tiffany Moore,2001-02-18,Female,681-555-0123,3.3,3.4,3.5,3.6,3.5,3.6,83,85,82,86,87,88,23,Concord University, Established 1872
+1021,Ulysses Davis,2002-10-26,Male,304-555-1345,3.7,3.8,3.9,3.8,3.9,4.0,89,91,87,90,92,93,22,Shepherd University, Established 1871
+1022,Victoria Harris,2003-06-02,Female,681-555-2456,2.6,2.7,2.8,2.9,3.0,3.1,73,75,69,77,78,79,21,Fairmont State University, Established 1865
+1023,Walter Anderson,2001-03-08,Male,304-555-3567,3.9,4.0,4.0,3.9,4.0,3.9,94,97,95,96,98,96,23,Glenville State University, Established 1872
+1024,Xavier Martinez,2002-12-14,Male,681-555-4678,3.2,3.3,3.4,3.5,3.6,3.7,81,83,79,84,86,87,22,West Liberty University, Established 1837
+1025,Yasmine Thomas,2003-08-20,Female,304-555-5789,3.6,3.7,3.8,3.7,3.8,3.9,87,89,85,89,91,92,21,Bluefield State University, Established 1895
+1026,Zachary Jackson,2001-04-24,Male,681-555-6890,2.5,2.6,2.7,2.6,2.8,2.9,72,74,68,75,77,78,23,University of Charleston, Established 1888
+1027,Ava White,2002-01-30,Female,304-555-7901,4.0,4.0,4.0,4.0,4.0,4.0,98,100,99,100,99,100,22,Wheeling University, Established 1954
+1028,Benjamin Harris,2003-09-06,Male,681-555-8012,3.4,3.5,3.3,3.4,3.5,3.6,84,86,82,85,87,88,21,Alderson Broaddus University, Established 1871
+1029,Chloe Martin,2001-06-12,Female,304-555-9123,3.0,3.1,3.2,3.1,3.3,3.4,78,80,76,79,81,83,23,Bethany College, Established 1840
+1030,Daniel Thompson,2002-02-15,Male,681-555-0234,3.8,3.9,4.0,3.9,4.0,3.9,92,94,90,93,95,94,22,Davis & Elkins College, Established 1904
+1031,Emily Garcia,2003-10-22,Female,304-555-1456,3.2,3.3,3.1,3.2,3.3,3.4,81,83,79,82,84,85,21,Ohio Valley University, Established 1958
+1032,Frank Perez,2001-07-29,Male,681-555-2567,3.6,3.7,3.8,3.7,3.8,3.9,88,90,86,89,91,92,23,Salem University, Established 1888
+1033,Gina Wilson,2002-03-05,Female,304-555-3678,2.8,2.9,3.0,2.9,3.0,3.1,76,78,74,77,79,80,22,West Virginia University, Established 1867
+1034,Harry Moore,2003-11-11,Male,681-555-4789,4.0,4.0,4.0,4.0,4.0,4.0,96,98,97,98,99,100,21,Marshall University, Established 1837
+1035,Isabella Davis,2001-08-17,Female,304-555-5890,3.3,3.4,3.5,3.4,3.5,3.6,82,84,81,85,86,87,23,West Virginia State University, Established 1891
+1036,Jack Harris,2002-04-23,Male,681-555-6901,3.7,3.8,3.9,3.8,3.9,3.8,90,92,88,91,93,92,22,Concord University, Established 1872
+1037,Katie Anderson,2003-01-29,Female,304-555-7012,2.7,2.8,2.9,2.8,2.9,3.0,74,76,72,75,77,79,21,Shepherd University, Established 1871
+1038,Liam Martinez,2001-09-04,Male,681-555-8123,3.9,4.0,4.0,4.0,4.0,4.0,93,95,94,96,97,98,23,Fairmont State University, Established 1865
+1039,Mia Thompson,2002-05-10,Female,304-555-9234,3.1,3.2,3.3,3.2,3.3,3.4,80,82,78,81,83,84,22,Glenville State University, Established 1872
+1040,Noah Jackson,2003-12-16,Male,681-555-0345,3.5,3.6,3.7,3.6,3.7,3.8,85,87,83,86,88,89,21,West Liberty University, Established 1837
